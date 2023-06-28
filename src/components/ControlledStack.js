@@ -24,7 +24,7 @@ const ControlledStack = ({ items, isAppSelectOpen, closePopUpOpen, removeItem, a
           cellHeight: 250,
           //cellWidth: 500,
           disableOneColumnMode: true,
-          float: true,
+          float: false,
           alwaysShowResizeHandle: 'mobile'
         }, '.controlled')
       const grid = gridRef.current
