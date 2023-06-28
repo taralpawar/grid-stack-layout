@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/grid-stack-layout/static/css/main.87aebd94.css",
+    "main.js": "/grid-stack-layout/static/js/main.7d0f687e.js",
+    "static/js/787.375cbe13.chunk.js": "/grid-stack-layout/static/js/787.375cbe13.chunk.js",
+    "static/media/picture_app.png": "/grid-stack-layout/static/media/picture_app.e86203649b0603fa9917.png",
+    "static/media/cam_app.png": "/grid-stack-layout/static/media/cam_app.73f9778647efba963a51.png",
+    "static/media/waveform_app.png": "/grid-stack-layout/static/media/waveform_app.83983523f746d02c6d83.png",
+    "static/media/vector_app.png": "/grid-stack-layout/static/media/vector_app.6d6e041cfc8b32b5d6e3.png",
+    "static/media/cie_app.png": "/grid-stack-layout/static/media/cie_app.66c6c0f86d222698f9d7.png",
+    "static/media/audio_app.png": "/grid-stack-layout/static/media/audio_app.82ab775310c84d20f82d.png",
+    "static/media/Logo-Telestream-Inverse.png": "/grid-stack-layout/static/media/Logo-Telestream-Inverse.d878e4cea5e06c1c0d47.png",
+    "index.html": "/grid-stack-layout/index.html",
+    "static/media/add_circle.svg": "/grid-stack-layout/static/media/add_circle.b7bb9a462eee6127cb13804e5ea53aaa.svg",
+    "main.87aebd94.css.map": "/grid-stack-layout/static/css/main.87aebd94.css.map",
+    "main.7d0f687e.js.map": "/grid-stack-layout/static/js/main.7d0f687e.js.map",
+    "787.375cbe13.chunk.js.map": "/grid-stack-layout/static/js/787.375cbe13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87aebd94.css",
+    "static/js/main.7d0f687e.js"
+  ]
+}
